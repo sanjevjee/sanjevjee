@@ -1,4 +1,4 @@
-👋 Hi, I’m @sanjevjee!
+👋 Hi, I’m Sanjeev Kumar!
 
 👀 I’m interested in exploring new technologies and solving real-world problems.
 
@@ -6,7 +6,8 @@
 
 💞️ I’m looking to collaborate on open-source projects related to Data science and AI
 
-📫 How to reach me: You can reach me via email at [your-email@example.com](mailto:sanjevvlog@gmail.com).
+📫 How to reach me: You can reach me via email at [my-email]
+(mailto:sanjevvlog@gmail.com).
 
 😄 Pronouns: He/Him
 
