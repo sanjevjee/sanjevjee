@@ -22,7 +22,7 @@ I'm a passionate Data Scientist from the UAE, specializing in data analysis and 
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![sanjeev GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeev&show_icons=true&theme=dark)
 
 ---
 
